@@ -18,7 +18,7 @@ Video Demo
 -----------------------------
 Petar Bulatovic
 
-[Video Demo](https://youtu.be/S1C8neA0UPM)</br>
+[Video Demo](https://youtu.be/4tZdJWomkAQ)</br>
 
 
 
