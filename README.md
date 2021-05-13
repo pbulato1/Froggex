@@ -4,8 +4,8 @@ Embedded Systems project, coded in C
 
 
 
-                                                 Project completed during Spring 2021.
-                                                        Uploaded on May 11.
+                                              Project completed during Spring 2021.
+                                                     Uploaded on May 11.
 
 
 
